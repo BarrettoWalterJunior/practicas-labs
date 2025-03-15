@@ -1,0 +1,7 @@
+* 18c8e20 Creando estilo css
+* 4678e38 Index de git
+* f6072c5 ignorando archivos
+* 5bf454a Create LICENSE
+* 5457f1e Un nuevo cambio
+* afff7b1 Agregando primero contenidos al readmi
+* 70cee0b Primer commit :)
